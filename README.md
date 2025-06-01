@@ -1,4 +1,4 @@
-# Abstract Computer Structures - Designs/Algorithms 
+# Abstract Computer Structures - Designs \& Algorithms 
 
 Costa Rica 
 
@@ -8,11 +8,6 @@ Costa Rica
 Last updated: 2020-04-14
 
 ------------------------------------------
-
-<div align="center">
-  <h3 style="color: #4CAF50;">Total Visitors</h3>
-  <img src="https://profile-counter.glitch.me/brown9804/count.svg" alt="Visitor Count" style="border: 2px solid #4CAF50; border-radius: 5px; padding: 5px;"/>
-</div>
 
 ## Content 
 
@@ -35,3 +30,8 @@ Last updated: 2020-04-14
 8. `C++` [Lists and Arrays](./8_ListArrayMethods/): This repository contains code related to Lists and Arrays.
 9. `C++` [Template Programming: Calculate with Operator Overloading ](./9_TemplateProgrammingCalc/): The project involves the development of a series of classes with templates that allow basic operations with integers, real numbers, fractions, and polynomials. This has been developed with operator overloading, a feature in C++ that allows certain operators to be used in a more intuitive way for user-defined types.
 10. `python` [Maps (Graphs)](./10_MapsGraphs/): This project is based on the implementation and modification of an existing code to work with graphs. The code has been modified to accept directed edges.
+
+<div align="center">
+  <h3 style="color: #4CAF50;">Total Visitors</h3>
+  <img src="https://profile-counter.glitch.me/brown9804/count.svg" alt="Visitor Count" style="border: 2px solid #4CAF50; border-radius: 5px; padding: 5px;"/>
+</div>
