@@ -1,16 +1,13 @@
 # Maps (Graphs)
 
-
 Costa Rica
-
-Belinda Brown, belindabrownr04@gmail.com
 
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 [brown9804](https://github.com/brown9804)
 
 ----------
 
-This project is based on the implementation and modification of an existing code to work with graphs. The code has been modified to accept **directed edges**.
+> This project is based on the implementation and modification of an existing code to work with graphs. The code has been modified to accept **directed edges**.
 
 ## Implemented Algorithms
 
@@ -26,3 +23,10 @@ The following algorithms have been implemented:
 ```
 $ make
 ```
+
+<!-- START BADGE -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20views-1022-limegreen" alt="Total views">
+  <p>Refresh Date: 2025-07-11</p>
+</div>
+<!-- END BADGE -->
