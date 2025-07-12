@@ -31,7 +31,9 @@ Last updated: 2020-04-14
 9. `C++` [Template Programming: Calculate with Operator Overloading ](./9_TemplateProgrammingCalc/): The project involves the development of a series of classes with templates that allow basic operations with integers, real numbers, fractions, and polynomials. This has been developed with operator overloading, a feature in C++ that allows certain operators to be used in a more intuitive way for user-defined types.
 10. `python` [Maps (Graphs)](./10_MapsGraphs/): This project is based on the implementation and modification of an existing code to work with graphs. The code has been modified to accept directed edges.
 
+<!-- START BADGE -->
 <div align="center">
-  <h3 style="color: #4CAF50;">Total Visitors</h3>
-  <img src="https://profile-counter.glitch.me/brown9804/count.svg" alt="Visitor Count" style="border: 2px solid #4CAF50; border-radius: 5px; padding: 5px;"/>
+  <img src="https://img.shields.io/badge/Total%20views-1022-limegreen" alt="Total views">
+  <p>Refresh Date: 2025-07-11</p>
 </div>
+<!-- END BADGE -->
