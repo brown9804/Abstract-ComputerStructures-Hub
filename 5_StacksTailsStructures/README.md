@@ -2,8 +2,6 @@
 
 Costa Rica
 
-Belinda Brown, belindabrownr04@gmail.com
-
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 [brown9804](https://github.com/brown9804)
 
@@ -11,7 +9,7 @@ June 2019
 
 ----------
 
-Stacks and Queues are fundamental data structures in computer science that are used in various types of computation.
+> Stacks and Queues are fundamental data structures in computer science that are used in various types of computation.
 
 ## Stacks
 A Stack is a linear data structure that follows a particular order in which operations are performed. The order may be LIFO(Last In First Out) or FILO(First In Last Out). Mainly the following three basic operations are performed in the stack:
@@ -47,3 +45,10 @@ The above command compiles the code. To run the compiled program, type the follo
 ```
  ./prioridad.exe 4 1:1:2:1
 ```
+
+<!-- START BADGE -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20views-1022-limegreen" alt="Total views">
+  <p>Refresh Date: 2025-07-11</p>
+</div>
+<!-- END BADGE -->
