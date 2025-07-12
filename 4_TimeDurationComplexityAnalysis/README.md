@@ -2,14 +2,12 @@
 
 Costa Rica
 
-Belinda Brown, belindabrownr04@gmail.com
-
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 [brown9804](https://github.com/brown9804)
 
 ----------
 
-This repository contains implementations of various algorithms in Python and C++, with a focus on understanding their time complexity and order of growth.
+> This repository contains implementations of various algorithms in Python and C++, with a focus on understanding their time complexity and order of growth.
 
 ## Time Complexity
 
@@ -18,3 +16,10 @@ Time Complexity is a way to represent the amount of time an algorithm takes in t
 ## Order of Growth
 
 Order of Growth is a simplified representation of the time complexity. It describes how the time of execution grows with the size of the input. For example, an algorithm with an order of growth O(n) will have its execution time grow linearly with the size of the input.
+
+<!-- START BADGE -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20views-1022-limegreen" alt="Total views">
+  <p>Refresh Date: 2025-07-11</p>
+</div>
+<!-- END BADGE -->
