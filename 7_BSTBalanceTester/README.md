@@ -2,8 +2,6 @@
 
 Costa Rica
 
-Belinda Brown, belindabrownr04@gmail.com
-
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 [brown9804](https://github.com/brown9804)
 
@@ -11,7 +9,8 @@ June 2019
 
 ----------
 
-A **Binary Search Tree (BST)** is a node-based binary tree data structure with the following properties:
+> A **Binary Search Tree (BST)** is a node-based binary tree data structure with the following properties:
+
 - The left subtree of a node contains only nodes with keys lesser than the node’s key.
 - The right subtree of a node contains only nodes with keys greater than the node’s key.
 - The left and right subtree each must also be a binary search tree.
@@ -45,3 +44,12 @@ To run the program, navigate to the folder containing the program using your con
 
 ```bash
 $ make
+```
+
+<!-- START BADGE -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20views-1022-limegreen" alt="Total views">
+  <p>Refresh Date: 2025-07-11</p>
+</div>
+<!-- END BADGE -->
+
