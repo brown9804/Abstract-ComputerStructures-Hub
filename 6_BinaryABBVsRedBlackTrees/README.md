@@ -2,8 +2,6 @@
 
 Costa Rica
 
-Belinda Brown, belindabrownr04@gmail.com
-
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 [brown9804](https://github.com/brown9804)
 
@@ -11,7 +9,7 @@ June 2019
 
 ----------
 
-This project explores two types of self-balancing binary search trees: Binary Search Trees (ABB) and Red-Black Trees.
+> This project explores two types of self-balancing binary search trees: Binary Search Trees (ABB) and Red-Black Trees.
 
 ## Binary Search Trees (ABB)
 A Binary Search Tree (BST) is a tree in which all the nodes follow the below property: The left sub-tree of a node has a key less than or equal to its parent node's key. The right sub-tree of a node has a key greater than to its parent node's key. Thus, BST divides all its sub-trees into two segments; the left sub-tree and the right sub-tree and can be defined as – left_subtree (keys) ≤ node (key) ≤ right_subtree (keys).
@@ -37,4 +35,11 @@ To run the program, navigate to the folder containing the program using your con
 
 ```bash
 $ make
+```
 
+<!-- START BADGE -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20views-1022-limegreen" alt="Total views">
+  <p>Refresh Date: 2025-07-11</p>
+</div>
+<!-- END BADGE -->
